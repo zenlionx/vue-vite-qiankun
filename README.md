@@ -29,3 +29,9 @@ yarn install
 ```sh
 yarn dev
 ```
+
+### 推荐编辑器和扩展
+
+```sh
+VSCode + Vetur or Volar (if-using <script setup>)
+```
