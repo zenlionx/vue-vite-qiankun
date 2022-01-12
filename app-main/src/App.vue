@@ -22,7 +22,7 @@
       </nav>
       <div class="main-content">
         <router-view />
-        <div id="micro-container"></div>
+        <div id="app-micro"></div>
       </div>
     </div>
   </div>
